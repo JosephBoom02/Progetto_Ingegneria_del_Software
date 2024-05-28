@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T09:31:39.353Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="0nb99fOzdDdZBiWVQlm6" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T09:39:40.266Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="aRxrYfMN3F9h2R44-w4q" version="24.4.9" type="github">
   <diagram name="Pagina-1" id="b1b_KA6KlfcaUS7zXWw2">
-    <mxGraphModel dx="713" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="djfGe0gmtvUCP7Zhn8_7-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="60" width="230" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="djfGe0gmtvUCP7Zhn8_7-23" value="InterfacciaLog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+        <mxCell id="djfGe0gmtvUCP7Zhn8_7-23" value="InterfacciaLog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="670" y="40" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="djfGe0gmtvUCP7Zhn8_7-29" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;ViewLog&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=left;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;perimeterSpacing=3;" parent="1" vertex="1">
