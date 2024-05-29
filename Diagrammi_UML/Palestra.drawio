@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T08:58:36.358Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="BcN6IGycNVyBTLt-EhP3" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T10:15:04.702Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="CfDFYaOnSKtMlzuKa5AJ" version="24.4.9" type="github">
   <diagram name="Page-1" id="sbFPpcLHUXz4X0utrcQx">
-    <mxGraphModel dx="1885" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="1036" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-27" value="Abbonamento" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-27" value="&lt;font color=&quot;#ffffff&quot;&gt;Abbonamento&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="340" y="50" width="270" height="148" as="geometry" />
         </mxCell>
         <mxCell id="F5mE64wRtsuPYbCrd9tL-28" value="&lt;div&gt;- nome: String&lt;/div&gt;&lt;div&gt;- descrizione: String&lt;/div&gt;&lt;div&gt;- durata: DurataAbbonamento&lt;br&gt;&lt;/div&gt;&lt;div&gt;- costo: Float&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="F5mE64wRtsuPYbCrd9tL-27" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="F5mE64wRtsuPYbCrd9tL-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="F5mE64wRtsuPYbCrd9tL-27" vertex="1">
           <mxGeometry y="140" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-31" value="«enumeration»&lt;br&gt;&lt;b&gt;DurataAbboanamento&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-31" value="&lt;font color=&quot;#ffffff&quot;&gt;«enumeration»&lt;br&gt;&lt;b&gt;DurataAbboanamento&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;fillColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="80" y="60" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F5mE64wRtsuPYbCrd9tL-32" value="&lt;div align=&quot;left&quot;&gt;settimanale&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;mensile&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;bimestrale&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;trimestrale&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;semestrale&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;annuale&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=left;" parent="1" vertex="1">
@@ -25,16 +25,16 @@
             <mxPoint x="380" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-34" value="Palestra" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-34" value="&lt;font color=&quot;#ffffff&quot;&gt;Palestra&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="860" y="50" width="280" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-35" value="&lt;div&gt;- nome: String&lt;/div&gt;&lt;div&gt;- indirizzo: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="F5mE64wRtsuPYbCrd9tL-34" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-35" value="&lt;div&gt;- nome: String&lt;/div&gt;&lt;div&gt;- indirizzo: String&lt;/div&gt;&lt;div&gt;- descrizione: String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="F5mE64wRtsuPYbCrd9tL-34" vertex="1">
           <mxGeometry y="26" width="280" height="114" as="geometry" />
         </mxCell>
         <mxCell id="F5mE64wRtsuPYbCrd9tL-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="F5mE64wRtsuPYbCrd9tL-34" vertex="1">
           <mxGeometry y="140" width="280" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-38" value="PersonalTrainer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-38" value="&lt;font color=&quot;#ffffff&quot;&gt;PersonalTrainer&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="920" y="360" width="160" height="148" as="geometry" />
         </mxCell>
         <mxCell id="F5mE64wRtsuPYbCrd9tL-39" value="&lt;div&gt;- nome: String&lt;/div&gt;&lt;div&gt;- cognome: String&lt;/div&gt;&lt;div&gt;- descrizione: String&lt;/div&gt;&lt;div&gt;- foto: File&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="F5mE64wRtsuPYbCrd9tL-38" vertex="1">
@@ -59,7 +59,7 @@
             <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5mE64wRtsuPYbCrd9tL-45" value="AbbonamentoUtente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F5mE64wRtsuPYbCrd9tL-45" value="&lt;font color=&quot;#ffffff&quot;&gt;AbbonamentoUtente&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="390" y="330" width="160" height="98" as="geometry" />
         </mxCell>
         <mxCell id="F5mE64wRtsuPYbCrd9tL-46" value="&lt;div&gt;- dataInizio: DateTime&lt;/div&gt;&lt;div&gt;- dataFine: DateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="F5mE64wRtsuPYbCrd9tL-45" vertex="1">
