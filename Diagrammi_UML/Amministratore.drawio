@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:10:44.464Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="oqN4IaDxiTt9jGy2OPvS" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T10:20:00.248Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="OGi4lL8tOMZpMUYHQeWv" version="24.4.9" type="github">
   <diagram name="Page-1" id="dpZg5o9Nk0xuVeHcgTmT">
-    <mxGraphModel dx="1047" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LYYnYHh8ku3WREPFoW5i-1" value="&lt;div&gt;Amministratore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="80" width="280" height="134" as="geometry" />
+        <mxCell id="LYYnYHh8ku3WREPFoW5i-1" value="&lt;div&gt;Amministratore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="285" y="80" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LYYnYHh8ku3WREPFoW5i-2" value="&lt;div&gt;- nome: String&lt;/div&gt;&lt;div&gt;- cognome: String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LYYnYHh8ku3WREPFoW5i-1">
-          <mxGeometry y="26" width="280" height="74" as="geometry" />
+        <mxCell id="LYYnYHh8ku3WREPFoW5i-2" value="&lt;div&gt;- id: String&lt;/div&gt;&lt;div&gt;- password: String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LYYnYHh8ku3WREPFoW5i-1" vertex="1">
+          <mxGeometry y="26" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LYYnYHh8ku3WREPFoW5i-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="LYYnYHh8ku3WREPFoW5i-1">
-          <mxGeometry y="100" width="280" height="8" as="geometry" />
+        <mxCell id="LYYnYHh8ku3WREPFoW5i-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="LYYnYHh8ku3WREPFoW5i-1" vertex="1">
+          <mxGeometry y="70" width="280" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="LYYnYHh8ku3WREPFoW5i-4" value="+validazionePalestra()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LYYnYHh8ku3WREPFoW5i-1">
-          <mxGeometry y="108" width="280" height="26" as="geometry" />
+        <mxCell id="LYYnYHh8ku3WREPFoW5i-4" value="&lt;div&gt;+ validazionePalestra()&lt;/div&gt;&lt;div&gt;+ mostraPalestre()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LYYnYHh8ku3WREPFoW5i-1" vertex="1">
+          <mxGeometry y="78" width="280" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
