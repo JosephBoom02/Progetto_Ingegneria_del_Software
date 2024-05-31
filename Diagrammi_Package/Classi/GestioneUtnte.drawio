@@ -1,0 +1,18 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T08:53:19.707Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="S30ma27sMWZFrDa8ruMr" version="24.4.9" type="github">
+  <diagram name="Page-1" id="08_3rAWnwQt7lrvvhPRf">
+    <mxGraphModel dx="967" dy="307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GwHLKV-5JC_M3bBUz8a2-5" value="GestioneUtente" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="81" y="101" width="956" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="GwHLKV-5JC_M3bBUz8a2-6" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="GwHLKV-5JC_M3bBUz8a2-5">
+          <mxGeometry width="956" height="327.59999999999997" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
