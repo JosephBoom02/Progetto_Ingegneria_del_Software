@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T12:47:41.482Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="YPi1e6M-kl_HJVrLT23c" version="24.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T12:49:11.208Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Lqs7qjto54F04rw_fq7X" version="24.4.11" type="github">
   <diagram name="Page-1" id="HaIGnK4oBKCUf0zDOcYd">
     <mxGraphModel dx="1264" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="sgFyzHYu5diykc7bS-y--12" value="Attore=GestorePalestra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-323" y="202" width="172" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sgFyzHYu5diykc7bS-y--13" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="112" width="120" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
