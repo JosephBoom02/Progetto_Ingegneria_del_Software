@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T14:37:27.062Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.15" etag="YXiIee_-nfaSl3WRoW_R" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T14:47:42.613Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="syzerUoIfTUXUdec9qrS" version="24.4.15" type="github">
   <diagram name="Pagina-1" id="8gtVipC6y0eBL7hh9LFe">
-    <mxGraphModel>
+    <mxGraphModel dx="1020" dy="1205" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RnETkauM3iMZNyow8D8e-1" value="&lt;br&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Controller&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- dbConnection: Connection&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- printOperazioni: Writer&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- printMessaggi: Writer&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- openConnection(String)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- openLogOperazioni(logOperazioniFile: Path)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;- openLogMessaggi(logMessaggiFile: Path)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;# printOperazione(String)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;# printMessaggio(String)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;# Connection getConnection()&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="155" y="-38" width="250" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;b&gt;Registrazione Controller&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ registraUtente(Nome: String, Cognome: String, Età: Int, Mail: String, Password: String)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="37" width="235" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=block;endFill=0;" edge="1" parent="1" source="RnETkauM3iMZNyow8D8e-3" target="RnETkauM3iMZNyow8D8e-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;b&gt;Login Controller&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ autentica(Username: String, Password: String&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="529" y="61" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;b&gt;Log Controller&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ getEntry(DateTime, DateTime)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ getEntry(Date)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ getAnomalie(Date)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ analsiiAnomalieOperazioni(Date)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ analisiAnomalieMessaggi(Date)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ printLogOperazioni(String[])&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ printLogMessaggi(String[])&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="155" y="309" width="223" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;b&gt;AnomalieOperazioni&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ scanOperazioni(Date)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ getAnomalie(Date)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="263" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;b&gt;AnomalieMessaggi&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ scanMessaggi(Date)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;+ getAnomalie(Date)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60A917;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="443" width="235" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=open;endFill=0;" edge="1" parent="1" source="RnETkauM3iMZNyow8D8e-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="358" as="sourcePoint" />
+            <mxPoint x="519" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=open;endFill=0;entryX=-0.009;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RnETkauM3iMZNyow8D8e-4" target="RnETkauM3iMZNyow8D8e-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="358" as="sourcePoint" />
+            <mxPoint x="529" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=block;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RnETkauM3iMZNyow8D8e-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="298" as="sourcePoint" />
+            <mxPoint x="267" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=block;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RnETkauM3iMZNyow8D8e-2" target="RnETkauM3iMZNyow8D8e-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="319" as="sourcePoint" />
+            <mxPoint x="277" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=oval;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="697.3529411764707" y="22.82352941176464" as="targetPoint" />
+            <mxPoint x="697" y="61" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=oval;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318.3529411764707" y="270.82352941176464" as="targetPoint" />
+            <mxPoint x="318" y="309" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3399FF;endArrow=oval;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-31.647058823529278" y="-1.176470588235361" as="targetPoint" />
+            <mxPoint x="-32" y="37" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;IRegistrazione&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-31" y="1" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-19" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;ILog&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="317" y="276" width="39" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RnETkauM3iMZNyow8D8e-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;ILogin&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="707" y="25" width="48" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
