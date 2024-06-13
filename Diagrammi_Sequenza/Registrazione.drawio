@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T12:23:10.073Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="GL1z2qanhTcysKxvmasC" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T12:26:58.861Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="3ui2Vw9AMe3d4ieRMYYh" version="24.5.4" type="github">
   <diagram name="Page-1" id="MFwa6qecS6YDcYTtCcl-">
-    <mxGraphModel dx="1555" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="sKm114cUgRpfBioQrUzL-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sKm114cUgRpfBioQrUzL-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="646" y="113" as="sourcePoint" />
-            <mxPoint x="645" y="584" as="targetPoint" />
+            <mxPoint x="643" y="1012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKm114cUgRpfBioQrUzL-7" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
@@ -34,13 +34,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sKm114cUgRpfBioQrUzL-9" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="41" y="1370" width="1164" height="376" as="geometry" />
+          <mxGeometry x="579" y="391" width="1164" height="376" as="geometry" />
         </mxCell>
         <mxCell id="sKm114cUgRpfBioQrUzL-10" value="Attore=Utente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1400.5" width="112" height="29" as="geometry" />
+          <mxGeometry x="588" y="421.5" width="112" height="29" as="geometry" />
         </mxCell>
         <mxCell id="sKm114cUgRpfBioQrUzL-11" value="Attore=GestorePalestra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1545" width="172" height="29" as="geometry" />
+          <mxGeometry x="588" y="566" width="172" height="29" as="geometry" />
         </mxCell>
         <mxCell id="sKm114cUgRpfBioQrUzL-15" value="" style="endArrow=block;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
