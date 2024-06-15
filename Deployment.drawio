@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T20:13:31.494Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="LS73uTMba53XQsjMYMRP" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T20:17:32.565Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="w-qi4qqBuhGA4fZEk9Gq" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
-    <mxGraphModel dx="2422" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,22 +153,58 @@
           <mxGeometry x="720" y="674" width="202" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-65" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1" y="1010" width="202" height="101" as="geometry" />
+          <mxGeometry x="-157" y="1033" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-66" value="ServerUtente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1045.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-61" y="1068.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-67" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1010" width="202" height="101" as="geometry" />
+          <mxGeometry x="111" y="1033" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-68" value="ServerGestorePalestra" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="296" y="1045.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="1068.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-72" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1010" width="202" height="101" as="geometry" />
+          <mxGeometry x="385" y="1033" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-73" value="ServerAmministratore" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1045.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="1045.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-74" value="&amp;lt;&amp;lt;deploy&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=101;entryDy=131;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" source="1docVJ_t-b5_W6ylMiDt-75" parent="1" target="1docVJ_t-b5_W6ylMiDt-67">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1224" as="sourcePoint" />
+            <mxPoint x="414" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-75" value="ServerGestorePalestra.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1231" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-76" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1240" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-77" value="&amp;lt;&amp;lt;deploy&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.99;entryY=0.496;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" source="1docVJ_t-b5_W6ylMiDt-78" parent="1" target="1docVJ_t-b5_W6ylMiDt-65">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="1224" as="sourcePoint" />
+            <mxPoint x="104" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-78" value="ServeUtente.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="1231" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-79" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1240" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-80" value="&amp;lt;&amp;lt;manifest&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=101;entryDy=131;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" source="1docVJ_t-b5_W6ylMiDt-81" parent="1" target="1docVJ_t-b5_W6ylMiDt-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="1190" as="sourcePoint" />
+            <mxPoint x="554" y="1151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-81" value="ServerAmministratore.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="381" y="1235" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-82" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1240" width="21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
