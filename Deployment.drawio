@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:57:47.175Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="KH0o--e62L927OSv8h7n" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T19:58:36.942Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="MB637CIOAsG9LZMtWGlB" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
     <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,6 +83,26 @@
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-42" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
           <mxGeometry x="1005" y="235" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-43" value="&lt;b&gt;Log&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="47" width="202" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-44" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="1docVJ_t-b5_W6ylMiDt-43">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-45" value="&amp;lt;&amp;lt;manifest&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="1docVJ_t-b5_W6ylMiDt-46" target="1docVJ_t-b5_W6ylMiDt-43" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1203" y="187" as="sourcePoint" />
+            <mxPoint x="1318" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-46" value="Log.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="226" width="202" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-47" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="235" width="21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
