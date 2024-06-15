@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T20:08:13.537Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="wJuRbEjcRD5vgA9Pr3a0" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T20:10:22.307Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="FA5HfFsJe2zLqC8P14XR" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
     <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,16 +105,16 @@
           <mxGeometry x="1291" y="235" width="21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-48" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="89" y="494" width="189" height="86" as="geometry" />
+          <mxGeometry x="89" y="494" width="202" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-50" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="147" y="522" width="60" height="30" as="geometry" />
+          <mxGeometry x="158" y="529.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-51" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="459" y="494" width="189" height="86" as="geometry" />
+          <mxGeometry x="459" y="494" width="202" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-52" value="ServerRegistrazione" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="522" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="529.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-55" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.002;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1docVJ_t-b5_W6ylMiDt-48" target="1docVJ_t-b5_W6ylMiDt-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,6 +130,27 @@
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-59" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="547" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-60" value="Broker.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="676" width="202" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-61" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="485" y="685" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-62" value="&amp;lt;&amp;lt;deploy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=101;entryDy=106;entryPerimeter=0;" edge="1" parent="1" source="1docVJ_t-b5_W6ylMiDt-60" target="1docVJ_t-b5_W6ylMiDt-51">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="644" as="sourcePoint" />
+            <mxPoint x="560" y="644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-63" value="&amp;lt;&amp;lt;deploy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1docVJ_t-b5_W6ylMiDt-64">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="628" as="sourcePoint" />
+            <mxPoint x="554" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-64" value="Login.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="593" y="672" width="202" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
