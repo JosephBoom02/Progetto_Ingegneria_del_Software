@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:54:27.321Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="-3VeFDOXyDRQYtzOemBY" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T19:54:40.438Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="UH5DyadvPnM2VoUBjWF-" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
     <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxPoint x="-85" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1docVJ_t-b5_W6ylMiDt-21" value="ServerGestorePalestra.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-21" value="ServerGestoreUtente.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-282" y="226" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
