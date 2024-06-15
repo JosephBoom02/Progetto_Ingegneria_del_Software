@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:58:36.942Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="MB637CIOAsG9LZMtWGlB" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T20:01:15.379Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="FpPxnmqGhzIdcmPCA5A6" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
     <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-47" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
           <mxGeometry x="1291" y="235" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-48" value="&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="89" y="494" width="189" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-50" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="147" y="522" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
