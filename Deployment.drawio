@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:56:27.673Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="uppu1CJ5DIV_eHFamDJR" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T19:57:47.175Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="KH0o--e62L927OSv8h7n" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
     <mxGraphModel dx="2085" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             <mxPoint x="1032" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1docVJ_t-b5_W6ylMiDt-41" value="ServerAmministratore.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-41" value="Broker.war" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="835" y="226" width="202" height="101" as="geometry" />
         </mxCell>
         <mxCell id="1docVJ_t-b5_W6ylMiDt-42" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
