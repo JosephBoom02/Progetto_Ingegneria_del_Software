@@ -1,9 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:44:12.125Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" etag="Is0JQgMfKHFUJHd9UfCh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T19:51:16.767Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="J_naJCqpahoRZvJ6WxCT" version="24.5.4" type="github">
   <diagram name="Page-1" id="bSAsCVvb1zE1cQpg0Sm6">
-    <mxGraphModel>
+    <mxGraphModel dx="2422" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-1" value="&lt;b&gt;ServerUtente&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-196" y="47" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="1docVJ_t-b5_W6ylMiDt-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-3" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1docVJ_t-b5_W6ylMiDt-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-159" y="265" as="sourcePoint" />
+            <mxPoint x="1" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-5" value="&lt;b&gt;ServerUtente&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-191" y="324" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1docVJ_t-b5_W6ylMiDt-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="332" width="21" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
